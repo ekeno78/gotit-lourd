@@ -16,7 +16,7 @@ namespace GOTIT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrgestionUser());
+            Application.Run(new FrmLogin());
         }
     }
 }
